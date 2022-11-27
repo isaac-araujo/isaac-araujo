@@ -15,3 +15,4 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaac-araujo&show_icons=truehide_border=true&locale=en&layout=compact&text_color=153c4a&" alt="isaac-araujo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaac-araujo&show_icons=true&text_color=153c4a&hide_border=true&locale=en" alt="isaac-araujo" /></p>
+  ![Snake animation](https://github.com/isaac-araujo/rafaballerini/blob/output/github-contribution-grid-snake.svg)
