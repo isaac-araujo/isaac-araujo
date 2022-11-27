@@ -39,9 +39,9 @@
 
 <div align="center">
     <a href="https://github.com/isaac-araujo">
-        <img height="180em"
+        <img height="160em"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=isaac-araujo&show_icons=truehide_border=true&locale=en&layout=compact&text_color=153c4a&" />
-        <img height="180em"
+        <img height="160em"
             src="https://github-readme-stats.vercel.app/api?username=isaac-araujo&show_icons=true&text_color=153c4a&hide_border=true&locale=en"
             alt="isaac-araujo" />
 </div>
