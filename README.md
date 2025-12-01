@@ -11,12 +11,5 @@
     <a href="https://github.com/isaac-araujo">
         <img height="160em"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=isaac-araujo&show_icons=truehide_border=true&locale=en&layout=compact&text_color=153c4a&" />
-        <img height="160em"
-            src="https://github-readme-stats.vercel.app/api?username=isaac-araujo&show_icons=true&text_color=153c4a&hide_border=true&locale=en"
-            alt="isaac-araujo" />
   
-<p align="center"> <img
-      src="https://komarev.com/ghpvc/?username=isaac-araujo&label=Profile%20views&color=0c1131&style=flat"
-      alt="isaac-araujo" /> </p>
-
 <!-- ![Snake animation](https://github.com/isaac-araujo/isaac-araujo/blob/output/github-contribution-grid-snake.svg) -->
